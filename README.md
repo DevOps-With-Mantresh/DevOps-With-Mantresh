@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Mantresh Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> As a Site Reliabilty Engineer 🧑🏽‍💻 Strive to build things that make a difference! </h3>
+<h3 align="center"> As a DevOps Engineer 🧑🏽‍💻 Strive to build things that make a difference! </h3>
 
 ## ⚡ About
 <picture> <img align="right" src="https://user-images.githubusercontent.com/97470591/211007344-adf1cb3d-93d9-447a-af88-29403126c5c1.gif" width = 250px></picture>
 
-- 📚 I’m currently: Working as an SRE @ Dukaan
+- 📚 I’m currently: Working as an DevOps @ ShopDeck
 - 💬 Ask me about: DevOps, Kubernets, Docker, CI/CD, Jenkins, AWS, EFK Stack, Prometheus, Grafana
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ My interests: DevOps and Cloud
