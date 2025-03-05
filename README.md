@@ -4,8 +4,8 @@
 ## ⚡ About
 <picture> <img align="right" src="https://user-images.githubusercontent.com/97470591/211007344-adf1cb3d-93d9-447a-af88-29403126c5c1.gif" width = 250px></picture>
 
-- 📚 I’m currently: Working as an DevOps @ ShopDeck
-- 💬 Ask me about: DevOps, Kubernets, Docker, CI/CD, Jenkins, AWS, EFK Stack, Prometheus, Grafana
+- 📚 I’m currently: Working as an DevOps & Cloud @ Wakefit
+- 💬 Ask me about: DevOps, GCP, Kubernets, Docker, CI/CD, Jenkins, AWS, ELK Stack, Prometheus, Grafana
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ My interests: DevOps and Cloud
 - 💻 Outside tech: Exploring the nature outdoors 🌴.
