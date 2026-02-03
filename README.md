@@ -5,9 +5,9 @@
 <picture> <img align="right" src="https://user-images.githubusercontent.com/97470591/211007344-adf1cb3d-93d9-447a-af88-29403126c5c1.gif" width = 250px></picture>
 
 - 📚 I’m currently: Working as a DevOps & Cloud @ Wakefit
-- 💬 Ask me about: DevOps, GCP, Kubernets, Docker, CI/CD, Jenkins, AWS, ELK Stack, Prometheus, Grafana
+- 💬 Ask me about: DevOps, GCP, Kubernetes, Docker, CI/CD, Jenkins, AWS, ELK Stack, Prometheus, Grafana, MLOps, GenAI
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ My interests: DevOps and Cloud
+- ⚡ My interests: DevOps, Cloud, MLOps & GenAI
 - 💻 Outside tech: Exploring the nature outdoors 🌴.
 
 📫  Feel free to reach me:
